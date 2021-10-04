@@ -1,0 +1,22 @@
+{
+    "name": "adminbro",
+    "version": "1.0.0",
+    "description": "https://adminbro.com",
+    "main": "admin.js",
+    "scripts": {
+      "start": "node admin.js"
+    },
+    "keywords": [],
+    "author": "Vito",
+    "license": "MIT",
+    "dependencies": {
+      "@admin-bro/express": "^3.0.1",
+      "@admin-bro/mongoose": "^1.1.0",
+      "admin-bro": "^3.3.1",
+      "express": "^4.17.1",
+      "express-formidable": "^1.2.0",
+      "express-session": "^1.17.2",
+      "mongoose": "^5.10.11",
+      "tslib": "^2.3.1"
+    }
+  }
